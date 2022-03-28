@@ -1,0 +1,9 @@
+body {
+    background-image: url('./bg.png');
+}
+
+h1 {
+    text-align: center;
+    padding: 1em;
+    color: aliceblue;
+}
