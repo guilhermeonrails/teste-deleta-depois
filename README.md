@@ -7,3 +7,5 @@
 <p align="justify">
   Aprendendo o Git na Alura. Repositório de teste.
 </p>
+
+![](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
